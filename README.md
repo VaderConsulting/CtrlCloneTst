@@ -24,6 +24,7 @@ Open `CtrlCloneTst.sln` in Visual Studio. The checked-in project file is `CtrlCl
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `CtrlCloneTst`.
 - Historical working copy from Dave Robinson / VaderConsulting.
 - No third-party source-code attribution markers were identified in assembly metadata (blank AssemblyTitle/Company). ControlFactory-style helpers were common community samples in this era; treat this tree as Dave's local test copy unless a clearer upstream is documented.
 
